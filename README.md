@@ -15,13 +15,15 @@ The project is designed for reproducible raster processing and analysis (tiling,
   (1) Detection of surface water
   (2) Consensus floodplain mapping
   (3) Fuzzy logic-based classification of the land-water interface
+  (4) Classification of land-water interface
   
   
 - **Land-use change within LWI**
   - Cropland change and urbanization inside the LWI
   - Optional utilities for additional transitions (e.g., cropland–grassland) if datasets allow
-- **Raster utilities**
-  - NA handling / gap-filling helpers (e.g., neighborhood modal filling constrained by multi-year support)
-  - Reclassification helpers and QA checks
+    
+- **Data availability**
+  The land-water interface maps can be explored at http://hu.berlin/LWI
 
----
+
+
