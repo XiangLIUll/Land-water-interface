@@ -20,7 +20,7 @@ The project is designed for reproducible raster processing and analysis (tiling,
   
 - **Land-use change within LWI**
   - Cropland change and urbanization inside the LWI
-  - Optional utilities for additional transitions (e.g., cropland–grassland) if datasets allow
+  - Additional transitions (e.g., cropland–grassland)
     
 - **Data availability**
   The land-water interface maps can be explored at http://hu.berlin/LWI
